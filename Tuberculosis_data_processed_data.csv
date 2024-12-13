@@ -1,0 +1,705 @@
+id;gender;age;county;ptb;remarks
+1000;Male;31;Shenzhen;0;normal
+1001;Male;64;Shenzhen;0;normal
+1002;Male;35;Shenzhen;0;normal
+1003;Male;32;Shenzhen;1;STB,ATB,tuberculosis pleuritis
+1004;Male;2;Shenzhen;1;secondary PTB  in the bilateral upper field
+1005;Male;17;Shenzhen;0;normal
+1006;Male;25;Shenzhen;1;Right PTB with fibrous changes
+1007;Male;30;Shenzhen;0;normal
+1008;Female;27;Shenzhen;1;secondary PTB  in the bilateral upper field
+1009;Female;31;Shenzhen;1;right upper PTB
+1010;Male;37;Shenzhen;1;PTB in the right upper field
+1011;Female;25;Shenzhen;0;normal
+1012;Female;26;Shenzhen;0;normal
+1013;Male;46;Shenzhen;1;right lower field PTB
+1014;Female;57;Shenzhen;0;normal
+1015;Male;23;Shenzhen;0;,normal
+1016;Female;33;Shenzhen;1;right secondary PTB
+1017;Male;45;Shenzhen;1;PTB in the right upper field
+1018;Male;25;Shenzhen;1;left PTB
+1019;Male;25;Shenzhen;0;normal
+1020;Male;74;Shenzhen;1;Right PTB
+1021;Female;48;Shenzhen;1;PTB in the right upper field
+1022;Male;23;Shenzhen;0;normal
+1023;Male;27;Shenzhen;1;secondary PTB  in the left upper field
+1024;Female;26;Shenzhen;0;normal
+1025;Male;37;Shenzhen;0;,normal
+1026;Female;20;Shenzhen;1;PTB in the right upper field
+1027;Male;56;Shenzhen;1;Right PTB
+1028;Male;25;Shenzhen;0;normal
+1029;Male;27;Shenzhen;1;Right PTB
+1030;Male;39;Shenzhen;0;normal
+1031;Male;35;Shenzhen;1;Right PTB
+1032;Male;39;Shenzhen;0;normal
+1033;Male;43;Shenzhen;1;Bilateral secondary PTB
+1034;Female;31;Shenzhen;1;right secondary PTB
+1035;Male;38;Shenzhen;1;left secondary PTB
+1036;Male;32;Shenzhen;1;bilateral PTB,  right upper lobe atelectasis
+1037;Male;65;Shenzhen;1;bilateral PTB
+1038;Male;28;Shenzhen;1;PTB in the bilateral upper field
+1039;Female;47;Shenzhen;0;normal
+1040;Male;60;Shenzhen;0;normal
+1041;Male;38;Shenzhen;0;normal
+1042;Female;27;Shenzhen;0;normal
+1043;Male;28;Shenzhen;0;normal
+1044;Male;31;Shenzhen;1;STB
+1045;Male;27;Shenzhen;0;normal
+1046;Female;29;Shenzhen;1;bilateral PTB
+1047;Male;33;Shenzhen;1;secondary PTB  in the left upper field
+1048;Male;34;Shenzhen;0;,normal
+1049;Male;23;Shenzhen;1;PTB in the left upper field
+1050;Female;43;Shenzhen;0;normal
+1051;Female;5;Shenzhen;0;normal
+1052;Male;22;Shenzhen;0;normal
+1053;Male;25;Shenzhen;1;PTB in the right lower field
+1054;Female;38;Shenzhen;1;Left PTB, left pleural thickening
+1055;Male;34;Shenzhen;1;bilateral PTB
+1056;Male;24;Shenzhen;1;STB,ATB
+1057;Female;30;Shenzhen;1;PTB in the left upper field
+1058;Female;26;Shenzhen;1;secondary PTB  in the right upper field
+1059;Female;39;Shenzhen;1;PTB in the left upper field
+1060;Male;26;Shenzhen;1;PTB in the left upper field
+1061;Male;23;Shenzhen;0;normal
+1062;Male;68;Shenzhen;0;,normale
+1063;Male;28;Shenzhen;0;normal
+1064;Male;37;Shenzhen;1;STB,NATB
+1065;Male;32;Shenzhen;0;normal
+1066;Male;28;Shenzhen;0;normal
+1067;Female;42;Shenzhen;0;normal
+1068;Male;28;Shenzhen;0;normal
+1069;Male;48;Shenzhen;0;normal
+1070;Male;22;Shenzhen;0;normal
+1071;Male;18;Shenzhen;1;left PTB
+1072;Male;1;Shenzhen;0;normal
+1073;Female;22;Shenzhen;1;right secondary PTB
+1074;Female;78;Shenzhen;1;right secondary PTB  with bilateral  pleurisy
+1075;Male;38;Shenzhen;1;Right PTB
+1076;Male;25;Shenzhen;0;normal
+1077;Female;53;Shenzhen;0;normal
+1078;Male;45;Shenzhen;0;normal
+1079;Female;26;Shenzhen;0;normal
+1080;Male,;43;Shenzhen;1;secondary PTB  in the bilateral upper field
+1081;Male;33;Shenzhen;0;normal
+1082;Female;29;Shenzhen;1;bilateral PTB
+1083;Male;32;Shenzhen;1;right secondary PTB
+1084;Female;34;Shenzhen;0;normal
+1085;Male;21;Shenzhen;1;secondary PTB  in the bilateral upper fields
+1086;Male;30;Shenzhen;0;normal
+1087;Female;5;Shenzhen;0;normal
+1088;Female;59;Shenzhen;1;bilateral PTB
+1089;Male;42;Shenzhen;1;Right PTB
+1090;Male;45;Shenzhen;1;right upper PTB
+1091;Male;26;Shenzhen;1;Right PTB
+1092;Male;31;Shenzhen;1;Right secondary PTB in the upper and middle fields
+1093;Female;32;Shenzhen;1;PTB in the right upper field
+1094;Female;28;Shenzhen;1;PTB in the right upper field
+1095;femal;60;Shenzhen;0;,normal
+1096;Male;8;Shenzhen;0;normal
+1097;Male;23;Shenzhen;0;,normal
+1098;Male;20;Shenzhen;0;normal
+1099;Male;29;Shenzhen;1;secondary PTB  in the left upper field
+1100;Female;53;Shenzhen;0;normal
+1101;Male;33;Shenzhen;1;bilateral PTB
+1102;Male;63;Shenzhen;1;Right PTB
+1103;Male;31;Shenzhen;0;normal
+1104;Male;75;Shenzhen;1;bilateral PTB, with left pleural effusion
+1105;Female;25;Shenzhen;0;normal
+1106;Female;20;Shenzhen;0;normal
+1107;Male;19;Shenzhen;0;normal
+1108;Female;36;Shenzhen;1;Right PTB
+1109;Male;26;Shenzhen;0;normal
+1110;Male;28;Shenzhen;0;,normal
+1111;Male;30;Shenzhen;0;normal
+1112;Male;47;Shenzhen;0;normal
+1113;Male;38;Shenzhen;0;normal
+1114;Male,;51;Shenzhen;1;secondary PTB  in thel left upper field
+1115;Female;40;Shenzhen;1;STB,NATB
+1116;Female;40;Shenzhen;0;normal
+1117;Female;24;Shenzhen;0;normal
+1118;Female;36;Shenzhen;1;Bilateral secondary PTB with left lower field pneumonia
+1119;femal;69;Shenzhen;0;normal
+1120;Female;48;Shenzhen;0;normal
+1121;Male;24;Shenzhen;0;normal
+1122;Male;61;Shenzhen;1;bilateral PTB
+1123;Male;32;Shenzhen;1;bilateral PTB
+1124;Female;27;Shenzhen;0;,normal
+1125;Male;41;Shenzhen;0;normal
+1126;Male;35;Shenzhen;0;normal
+1127;Male;15;Shenzhen;1;left PTB
+1128;Male;30;Shenzhen;1;PTB in the left upper field
+1129;Female;49;Shenzhen;1;Bilateral secondary PTB, left encapsulated intrathoracic fluid
+1130;Male;30;Shenzhen;1;Bilateral secondary PTB
+1131;Male;31;Shenzhen;1;bilateral PTB, right pleurisy
+1132;Female;38;Shenzhen;0;normal
+1133;Male;31;Shenzhen;1;left PTB
+1134;Male;43;Shenzhen;0;normal
+1135;Female;30;Shenzhen;0;normal
+1136;Male;52;Shenzhen;0;normal
+1137;Female;36;Shenzhen;0;normal
+1138;Male;22;Shenzhen;0;normal
+1139;Male;62;Shenzhen;1;Bilateral secondary PTB
+1140;Male;37;Shenzhen;1;PTB in the right upper field
+1141;Male;34;Shenzhen;1;left PTB
+1142;Male;39;Shenzhen;0;normal
+1143;Female;26;Shenzhen;1;Bilateral secondary PTB
+1144;Female;35;Shenzhen;0;,normal
+1145;Male;42;Shenzhen;0;normal
+1146;Male;28;Shenzhen;1;STB
+1147;Female;64;Shenzhen;0;normal
+1148;Male;1;Shenzhen;0;,normal
+1149;Male;85;Shenzhen;0;normal
+1150;Female;30;Shenzhen;1;Old PTB in the right upper field
+1151;Female;36;Shenzhen;0;normal
+1152;Female;50;Shenzhen;0;normal
+1153;Female;25;Shenzhen;1;secondary PTB  in the left upper field
+1154;Male;60;Shenzhen;1;Right PTB
+1155;Female;41;Shenzhen;1;PTB in the bilateral upper field
+1156;Male;34;Shenzhen;0;normal
+1157;Female;44;Shenzhen;1;"1.secondary PTB  in the right upper field; 2.small tuberculoma; 3.right pleural thickening and adhesions"
+1158;Female;20;Shenzhen;1;PTB in the right upper field
+1159;Male;25;Shenzhen;1;Right PTB
+1160;Male;32;Shenzhen;0;normal
+1161;Male;56;Shenzhen;0;normal
+1162;Female;39;Shenzhen;0;normal
+1163;Male;32;Shenzhen;0;normal
+1164;Female;37;Shenzhen;0;normal
+1165;Male;23;Shenzhen;0;normal
+1166;Male;40;Shenzhen;1;Right PTB
+1167;Male;34;Shenzhen;1;left PTB
+1168;Female;28;Shenzhen;1;PTB in the right upper field
+1169;Male;49;Shenzhen;1;STB,ATB
+1170;Male;28;Shenzhen;1;bilateral PTB
+1171;Female;71;Shenzhen;0;normal
+1172;Female;36;Shenzhen;0;normal
+1173;Female;40;Shenzhen;1;secondary PTB  in the bilateral upper field
+1174;Male;22;Shenzhen;0;normal
+1175;Female;26;Shenzhen;1;Right PTB
+1176;Female;24;Shenzhen;1;bilateral PTB
+1177;Male;23;Shenzhen;0;normal
+1178;Male;48;Shenzhen;1;bilateral PTB
+1179;Female;10;Shenzhen;1;left PTB,pleural thickening
+1180;Female;27;Shenzhen;0;normal
+1181;Male;42;Shenzhen;0;normal
+1182;Female;46;Shenzhen;0;,normal
+1183;Female;25;Shenzhen;1;Right PTB
+1184;Female;40;Shenzhen;1;TB
+1185;Male;46;Shenzhen;1;PTB
+1186;Male;36;Shenzhen;1;bilateral PTB
+1187;Male;20;Shenzhen;0;normal
+1188;Male;50;Shenzhen;0;normal
+1189;Male;63;Shenzhen;1;bilateral PTB
+1190;Male;48;Shenzhen;0;normal
+1191;Male;36;Shenzhen;1;right upper PTB
+1192;Male;31;Shenzhen;1;Right PTB
+1193;Male;23;Shenzhen;0;normal
+1194;Male;58;Shenzhen;0;normal
+1195;Male;34;Shenzhen;1;PTB in the right upper field
+1196;Male;78;Shenzhen;1;Right PTB
+1197;Male;46;Shenzhen;0;normal
+1198;Male;55;Shenzhen;1;PTB in the bilateral upper fields
+1199;Male;40;Shenzhen;1;left PTB,left pleurisy
+1200;Male;22;Shenzhen;0;normal
+1201;Female;61;Shenzhen;1;PTB in the right upper field
+1202;Male;33;Shenzhen;1;PTB in the bilateral upper and middle field
+1203;Female;40;Shenzhen;1;PTB in the right upper field
+1204;Male;38;Shenzhen;1;PTB in the left upper field
+1205;Male;20;Shenzhen;0;normal
+1206;Female;29;Shenzhen;1;PTB in the right upper field
+1207;Male;51;Shenzhen;1;bilateral PTB
+1208;Female;60;Shenzhen;1;bilateral PTB
+1209;Male;60;Shenzhen;1;bilateral PTB
+1210;Male;36;Shenzhen;0;normal
+1211;Male;33;Shenzhen;1;PTB in the right upper field
+1212;Female;33;Shenzhen;1;PTB in the bilateral upper field
+1213;Male;21;Shenzhen;0;normal
+1214;Female;58;Shenzhen;1;left PTB
+1215;Female;52;Shenzhen;0;normal
+1216;Male;31;Shenzhen;0;normal
+1217;Female,;28;Shenzhen;1;bilateral acute hematogenous disseminated PTB
+1218;Male;28;Shenzhen;1;secondary PTB  in the bilateral upper field
+1219;Male;28;Shenzhen;0;,normal
+1220;Male;19;Shenzhen;0;normal
+1221;Male;25;Shenzhen;1;Right PTB
+1222;Female;35;Shenzhen;1;secondary PTB  in the right upper field
+1223;Female;30;Shenzhen;0;normal
+1224;Male,;31;Shenzhen;1;secondary PTB  in the left lower field
+1225;Male;44;Shenzhen;0;normal
+1226;femal;32;Shenzhen;0;normal
+1227;Male;55;Shenzhen;1;left PTB
+1228;Male;40;Shenzhen;1;PTB  in the right upper field
+1229;Female;60;Shenzhen;0;normal
+1230;Female;38;Shenzhen;0;normal
+1231;Female;29;Shenzhen;1;bilateral PTB
+1232;Male;38;Shenzhen;1;secondary PTB in the bilateral upper and middle fields, mainly fibrous  lesions
+1233;Male;32;Shenzhen;0;normal
+1234;Female;39;Shenzhen;1;secondary PTB  in the left upper field
+1235;Female;6;Shenzhen;0;normal
+1236;Male;44;Shenzhen;1;STB,NATB
+1237;Female;22;Shenzhen;1;right lower field PTB
+1238;Female;76;Shenzhen;1;PTB in the left upper field
+1239;Male;30;Shenzhen;0;,normal
+1240;Female;47;Shenzhen;0;normal
+1241;Male;33;Shenzhen;0;normal
+1242;Male;29;Shenzhen;0;normal
+1243;Male;29;Shenzhen;1;Right PTB
+1244;Male;7;Shenzhen;0;normal
+1245;Female;23;Shenzhen;0;normal
+1246;Female;57;Shenzhen;1;bilateral PTB
+1247;Male;37;Shenzhen;0;,normal
+1248;Male;54;Shenzhen;1;bilateral secondary PTB
+1249;Male;28;Shenzhen;1;secondary PTB  in the left upper field
+1250;Female;37;Shenzhen;0;normal
+1251;Male;33;Shenzhen;1;bilateral PTB
+1252;Male;19;Shenzhen;0;normal
+1253;Male;30;Shenzhen;0;,normal
+1254;Male;27;Shenzhen;1;Left secondary PTB in the upper and middle fields, mainly  fibrous  lesions
+1255;Male;35;Shenzhen;1;Bilateral secondary PTB
+1256;Female;1;Shenzhen;0;,normal
+1257;Male;30;Shenzhen;0;normal
+1258;Male;24;Shenzhen;1;left PTB
+1259;Female;31;Shenzhen;0;normal
+1260;Male;25;Shenzhen;1;left PTB
+1261;Male;30;Shenzhen;0;normal
+1262;Male;23;Shenzhen;0;normal
+1263;Female;39;Shenzhen;0;normal
+1264;Male;19;Shenzhen;0;normal
+1265;Male;20;Shenzhen;0;normal
+1266;Male;57;Shenzhen;1;PTB in the left upper field
+1267;Male;25;Shenzhen;1;secondary PTB  in the left upper field
+1268;Male;24;Shenzhen;0;normal
+1269;Male;24;Shenzhen;1;Bilateral secondary PTB
+1270;Male;18;Shenzhen;0;normal
+1271;Female;38;Shenzhen;1;right secondary PTB
+1272;Female;55;Shenzhen;1;left PTB,left pleurisy
+1273;Male;31;Shenzhen;0;normal
+1274;Female,;49;Shenzhen;1;Right secondary PTB,mainly hyperplastic lesions
+1275;Female;28;Shenzhen;0;normal
+1276;Female;23;Shenzhen;1;bilateral PTB
+1277;Male;28;Shenzhen;0;normal
+1278;Male;26;Shenzhen;0;normal
+1279;Female,;28;Shenzhen;1;left secondary PTB
+1280;Male;56;Shenzhen;1;Bilateral secondary PTB
+1281;Male;36;Shenzhen;1;PTB in the left upper field
+1282;Female;33;Shenzhen;1;bilateral PTB
+1283;Female;28;Shenzhen;0;,normal
+1284;Male;24;Shenzhen;1;Right PTB
+1285;Male;31;Shenzhen;1;Right PTB
+1286;Male;2;Shenzhen;0;normal
+1287;Male;33;Shenzhen;1;secondary PTB in the right upper field,mainly hyperplastic lesions
+1288;Male;35;Shenzhen;0;normal
+1289;Male;37;Shenzhen;0;,normal
+1290;Female;33;Shenzhen;0;normal
+1291;Female;24;Shenzhen;0;normal
+1292;Male;29;Shenzhen;1;Right PTB
+1293;Male;38;Shenzhen;0;normal
+1294;Male;34;Shenzhen;0;normal
+1295;Female;34;Shenzhen;0;,normal
+1296;Male;65;Shenzhen;1;Right PTB
+1297;Female;63;Shenzhen;0;,normal
+1298;Female;35;Shenzhen;0;,normal
+1299;Male;26;Shenzhen;0;normal
+1300;Male;26;Shenzhen;0;normal
+1301;Female;28;Shenzhen;0;normal
+1302;Male;18;Shenzhen;1;bilateral PTB
+1303;Female;64;Shenzhen;0;normal
+1304;Female;28;Shenzhen;1;PTB in the bilateral upper field
+1305;Male;34;Shenzhen;1;STB
+1306;Male;38;Shenzhen;1;Bilateral secondary PTB  with most lesions calcified
+1307;Male;20;Shenzhen;0;normal
+1308;Male;22;Shenzhen;1;bilateral hematogenous disseminated PTB
+1309;Male;53;Shenzhen;0;normal
+1310;Male;44;Shenzhen;1;bilateral PTB
+1311;Male;19;Shenzhen;0;normal
+1312;Male;19;Shenzhen;1;PTB  in the right upper field
+1313;Male;36;Shenzhen;0;,normal
+1314;Male;49;Shenzhen;1;PTB in the right lower field
+1315;Male;21;Shenzhen;1;right upper PTB
+1316;Male;23;Shenzhen;0;normal
+1317;Female;54;Shenzhen;0;,normal
+1318;Female;25;Shenzhen;0;normal
+1319;Male;45;Shenzhen;0;,normal
+1320;Male;27;Shenzhen;1;right upper PTB
+1321;Male;20;Shenzhen;0;normal
+1322;Female;38;Shenzhen;0;normal
+1323;Male;47;Shenzhen;0;normal
+1324;Male;27;Shenzhen;0;,normal
+1325;Male,;69;Shenzhen;1;bilateral secondary PTB  with pleural thickening
+1326;Male;37;Shenzhen;0;normal
+1327;Male;50;Shenzhen;1;bilateral PTB
+1328;Male;35;Shenzhen;0;normal
+1329;Female;36;Shenzhen;1;STB,NATB,Tuberculosis pleuritis
+1330;Male;34;Shenzhen;0;normal
+1331;Male;40;Shenzhen;1;Right PTB
+1332;Female;64;Shenzhen;0;normal
+1333;Female;20;Shenzhen;0;,normal
+1334;Male;39;Shenzhen;0;,normal
+1335;Male;33;Shenzhen;0;normal
+1336;Male;24;Shenzhen;1;bilateral PTB
+1337;Female;56;Shenzhen;0;,normal
+1338;Male;24;Shenzhen;0;normal
+1339;Male;42;Shenzhen;0;normal
+1340;Male;38;Shenzhen;0;normal
+1341;Male;31;Shenzhen;0;normal
+1342;Male;44;Shenzhen;1;right upper field PTB
+1343;Male;3;Shenzhen;0;normal
+1344;Female;25;Shenzhen;0;normal
+1345;Female;39;Shenzhen;1;PTB in the right upper field
+1346;Male;27;Shenzhen;1;Old PTB in the right upper field
+1347;Male;42;Shenzhen;0;,normal
+1348;Female;36;Shenzhen;1;bilateral PTB
+1349;Male;67;Shenzhen;1;PTB in the right upper field,COPD
+1350;Male;44;Shenzhen;0;,normal
+1351;Male;45;Shenzhen;0;normal
+1352;Male;28;Shenzhen;0;normal
+1353;Female;21;Shenzhen;0;normal
+1354;Male;23;Shenzhen;1;left PTB
+1355;Male;24;Shenzhen;0;normal
+1356;Male;30;Shenzhen;1;PTB in the right upper field
+1357;Female;32;Shenzhen;1;PTB in the right upper field
+1358;Male;43;Shenzhen;0;normal
+1359;Male;81;Shenzhen;1;PTB in the bilateral upper field
+1360;Male;48;Shenzhen;0;normal
+1361;Male;31;Shenzhen;0;,normal
+1362;Male;39;Shenzhen;0;normal
+1363;Male;39;Shenzhen;1;PTB  in the right upper field
+1364;Male;58;Shenzhen;0;normal
+1365;Female;32;Shenzhen;1;secondary PTB  in the left upper field
+1366;Male;33;Shenzhen;1;PTB in the bilateral upper fields
+1367;Male;35;Shenzhen;1;Bilateral secondary PTB
+1368;Male;59;Shenzhen;0;normal
+1369;Female;45;Shenzhen;1;PTB in the right upper field
+1370;Male;39;Shenzhen;0;,normal
+1371;Female;24;Shenzhen;0;normal
+1372;Male;30;Shenzhen;0;normal
+1373;Male;39;Shenzhen;0;normal
+1374;Male;50;Shenzhen;1;Bilateral secondary PTB
+1375;Male;23;Shenzhen;1;PTB in the right upper field
+1376;Male;40;Shenzhen;1;bilateral PTB
+1377;Male,;26;Shenzhen;1;bilateral secondary PTB with multiple cavitations
+1378;Male;31;Shenzhen;0;,normal
+1379;Male;37;Shenzhen;1;left PTB
+1380;Male;39;Shenzhen;0;,normal
+1381;Female;32;Shenzhen;1;bilateral PTB
+1382;Male;63;Shenzhen;1;Right PTB
+1383;Female;78;Shenzhen;1;Bilateral secondary PTB
+1384;Male;49;Shenzhen;1;PTB in the right upper field
+1385;Male;49;Shenzhen;0;normal
+1386;Male;30;Shenzhen;0;normal
+1387;Female;31;Shenzhen;0;normal
+1388;Female;39;Shenzhen;0;normal
+1389;Male;32;Shenzhen;0;,normal
+1390;Female;33;Shenzhen;0;,normal
+1391;Male;41;Shenzhen;0;,normal
+1392;Male;17;Shenzhen;1;left PTB
+1393;Male;35;Shenzhen;1;PTB in the left upper field
+1394;Male;54;Shenzhen;1;PTB in the right upper field
+1395;Male;32;Shenzhen;1;secondary PTB  in the right upper field
+1396;Female;26;Shenzhen;0;normal
+1397;Male;30;Shenzhen;0;normal
+1398;Female;70;Shenzhen;0;normal
+1399;Female;36;Shenzhen;0;normal
+1400;Female;57;Shenzhen;0;normal
+1401;Male;25;Shenzhen;0;normal
+1402;Male;25;Shenzhen;1;Right PTB
+1403;Male;45;Shenzhen;1;Right PTB
+1404;Male;3;Shenzhen;0;,normal
+1405;Female;28;Shenzhen;1;secondary PTB  in the right upper field
+1406;Male;51;Shenzhen;1;bilateral PTB
+1407;Male;32;Shenzhen;0;normal
+1408;Male;23;Shenzhen;1;Left PTB
+1409;Male;24;Shenzhen;1;Right PTB
+1410;Female;35;Shenzhen;1;right secondary PTB, right pleurisy with  pleural effusion
+1411;Female;53;Shenzhen;0;,normal
+1412;Female;65;Shenzhen;0;normal
+1413;Male;24;Shenzhen;1;secondary PTB  in the right upper field
+1414;Male;36;Shenzhen;1;Right PTB
+1415;Male;25;Shenzhen;1;Right PTB
+1416;Male;27;Shenzhen;1;secondary PTB  in the right upper field
+1417;Male;19;Shenzhen;1;PTB in the left lower field
+1418;Male;42;Shenzhen;0;normal
+1419;Female;39;Shenzhen;1;secondary PTB  in the right upper field
+1420;Female;24;Shenzhen;0;normal
+1421;Female;25;Shenzhen;1;Right PTB
+1422;Male;34;Shenzhen;1;right secondary PTB
+1423;Male;22;Shenzhen;0;normal
+1424;Male;44;Shenzhen;0;normal
+1425;Male;25;Shenzhen;0;,normal
+1426;Male;25;Shenzhen;0;normal
+1427;Male;41;Shenzhen;1;bilateral secondary PTB  with right pneumothorax
+1428;Male;22;Shenzhen;0;normal
+1429;Female;36;Shenzhen;0;normal
+1430;Female;38;Shenzhen;0;,normal
+1431;Male;27;Shenzhen;0;normal
+1432;Male;23;Shenzhen;0;normal
+1433;Male;14;Shenzhen;0;normal
+1434;Male;28;Shenzhen;0;normal
+1435;Male;53;Shenzhen;1;Right PTB
+1436;Female;22;Shenzhen;1;bilateral PTB
+1437;Male;51;Shenzhen;1;bilateral PTB
+1438;Male;21;Shenzhen;0;normal
+1439;Male;52;Shenzhen;0;,normal
+1440;Male;63;Shenzhen;0;normal
+1441;Male;29;Shenzhen;1;bilateral secondary PTB,mainly hyperplastic lesions
+1442;Male;30;Shenzhen;0;normal
+1443;Male;58;Shenzhen;1;bilateral PTB
+1444;Male;28;Shenzhen;1;Right PTB
+1445;Male;5;Shenzhen;0;normal
+1446;Male;23;Shenzhen;1;left PTB
+1447;Female;67;Shenzhen;1;right upper pneumonia
+1448;Female;49;Shenzhen;1;left PTB
+1449;Female;31;Shenzhen;1;Bilateral secondary PTB
+1450;Male;29;Shenzhen;0;normal
+1451;Male;28;Shenzhen;0;normal
+1452;Male;28;Shenzhen;0;normal
+1453;Female;74;Shenzhen;1;Right PTB
+1454;Male;33;Shenzhen;0;normal
+1455;Male;44;Shenzhen;1;bilateral PTB
+1456;Male;48;Shenzhen;0;,normal
+1457;Male;36;Shenzhen;1;Bilateral secondary PTB
+1458;Female;21;Shenzhen;1;Bilateral secondary PTB
+1459;Male;24;Shenzhen;1;PTB in the right upper field
+1460;Male;23;Shenzhen;0;normal
+1461;Male;36;Shenzhen;0;,normal
+1462;Female;28;Shenzhen;1;bilateral PTB
+1463;Male;42;Shenzhen;1;right secondary PTB
+1464;Female;48;Shenzhen;0;normal
+1465;Female;78;Shenzhen;1;bilateral PTB
+1466;Male;49;Shenzhen;1;Right PTB
+1467;Male;54;Shenzhen;0;normal
+1468;Female;59;Shenzhen;0;normal
+1469;Female;28;Shenzhen;1;bilateral PTB
+1470;Male;26;Shenzhen;1;bilateral PTB
+1471;Male;63;Shenzhen;1;Right pneumothorax, Right upper PTB, bilateral widespread infection
+1472;Female;63;Shenzhen;1;bilateral PTB
+1473;Male;23;Shenzhen;1;PTB in the right upper field
+1474;Female;46;Shenzhen;0;normal
+1475;Male;23;Shenzhen;1;bilateral subacute hematogenous disseminated PTB
+1476;Male;6;Shenzhen;0;normal
+1477;Female;43;Shenzhen;0;normal
+1478;Female;38;Shenzhen;1;PTB in the left upper field
+1479;Male;63;Shenzhen;1;bilateral PTB
+1480;Male;59;Shenzhen;1;PTB
+1481;Male;82;Shenzhen;1;Right PTB
+1482;Male;53;Shenzhen;0;normal
+1483;Male;22;Shenzhen;1;bilateral PTB
+1484;Male;42;Shenzhen;1;Right PTB
+1485;Female;43;Shenzhen;1;secondary PTB  in the right upper field
+1486;Female;29;Shenzhen;0;,normal
+1487;Male;36;Shenzhen;0;normal
+1488;Male;38;Shenzhen;1;PTB in the bilateral upper fields
+1489;Male;43;Shenzhen;0;normal
+1490;Female;53;Shenzhen;0;normal
+1491;Male;34;Shenzhen;1;Right PTB
+1492;Male;37;Shenzhen;0;,normal
+1493;Male;25;Shenzhen;1;bilateral PTB
+1494;Male;19;Shenzhen;1;PTB in the bilateral upper field
+1495;Male;32;Shenzhen;1;right secondary PTB
+1496;Female;62;Shenzhen;0;normal
+1497;Male;58;Shenzhen;1;STB
+1498;Male;21;Shenzhen;1;PTB in the right lower field
+1499;Male;29;Shenzhen;0;normal
+1500;Female;38;Shenzhen;1;secondary PTB  in the right upper field
+1501;Female;21;Shenzhen;0;normal
+1502;Male,;26;Shenzhen;1;bilateral secondary PTB  with right pleural thickening
+1503;Male;39;Shenzhen;1;bilateral PTB
+1504;Female;28;Shenzhen;1;right upper PTB with fibrous changes
+1505;Female;22;Shenzhen;1;left PTB
+1506;Male;25;Shenzhen;0;normal
+1507;Female;27;Shenzhen;0;normal
+1508;Female;39;Shenzhen;0;,normal
+1509;Male;28;Shenzhen;1;Right secondary PTB
+1510;Male;42;Shenzhen;1;bilateral PTB
+1511;Male;50;Shenzhen;1;"1.bilateral secondary PTB  with right upper atelectasis;2.right pleural adhesions;3.left compensatory emphysema"
+1512;Male;25;Shenzhen;1;PTB in the bilateral upper field
+1513;Male;21;Shenzhen;1;Right PTB
+1514;Male;32;Shenzhen;1;PTB in the right upper field
+1515;Male;32;Shenzhen;0;normal
+1516;Male;35;Shenzhen;1;Right PTB
+1517;Male;29;Shenzhen;1;left secondary PTB
+1518;Female;27;Shenzhen;0;normal
+1519;Male;56;Shenzhen;1;bilateral PTB
+1520;Male;39;Shenzhen;1;Right PTB
+1521;Male;39;Shenzhen;1;PTB in the left upper field
+1522;Female;29;Shenzhen;1;Right PTB
+1523;Male;25;Shenzhen;0;normal
+1524;Male;56;Shenzhen;1;PTB in the left upper field
+1525;Male;89;Shenzhen;1;bilateral PTB
+1526;Female;25;Shenzhen;0;,normal
+1527;Female;30;Shenzhen;0;normal
+1528;Female;39;Shenzhen;1;secondary PTB  in the right upper field
+1529;Male;46;Shenzhen;1;bilateral PTB
+1530;Male;41;Shenzhen;1;left PTB
+1531;Male;63;Shenzhen;1;right PTB,right pneumothorax
+1532;Male;45;Shenzhen;0;normal
+1533;Female;33;Shenzhen;1;PTB in the right upper field
+1534;Male;22;Shenzhen;1;left upper PTB, left pleurisy
+1535;Female;18;Shenzhen;1;secondary PTB  in the bilateral upper fields
+1536;Male;36;Shenzhen;0;normal
+1537;Female;59;Shenzhen;0;normal
+1538;Male;28;Shenzhen;1;PTB in the left upper field
+1539;Male;44;Shenzhen;1;PTB in the left upper field
+1540;Male;27;Shenzhen;0;normal
+1541;Male;50;Shenzhen;1;secondary PTB  in the right upper field
+1542;Female;53;Shenzhen;1;Bilateral secondary PTB
+1543;Male;30;Shenzhen;0;normal
+1544;Male;41;Shenzhen;0;normal
+1545;Female;2;Shenzhen;0;normal
+1546;Female;38;Shenzhen;1;bilateral PTB
+1547;Female;24;Shenzhen;1;right upper PTB, pleural adhesions in  left lower field
+1548;Male;56;Shenzhen;1;left secondary PTB,right pleural effusion
+1549;Female;38;Shenzhen;0;normal
+1550;Male;39;Shenzhen;1;bilateral PTB
+1551;Male;30;Shenzhen;1;bilateral PTB, with cavity formation in right upper field
+1552;Female;24;Shenzhen;1;PTB in the right upper field
+1553;Male;30;Shenzhen;0;normal
+1554;Female;35;Shenzhen;0;normal
+1555;Female;35;Shenzhen;1;Right PTB
+1556;Male;35;Shenzhen;0;normal
+1557;Male;29;Shenzhen;0;normal
+1558;Female;28;Shenzhen;0;normal
+1559;Male;35;Shenzhen;1;right upper PTB
+1560;Female;50;Shenzhen;0;normal
+1561;Male;32;Shenzhen;1;STB
+1562;Female;15;Shenzhen;1;bilateral PTB, right pleurisy
+1563;Female;47;Shenzhen;1;secondary PTB  in the bilateral upper field
+1564;Male;68;Shenzhen;0;normal
+1565;Male;42;Shenzhen;0;normal
+1566;Male;35;Montgomery;1;LUL inactive scars and some volume loss. h/o treatment 5 years ago.
+1567;Male;32;Montgomery;1;extensive infiltrates bilaterally with large cavity in RUL and a moderate pleural effusion on the left. AFB smears and RNA probes pos for MTB. Active TB, cavitary.
+1568;Female;35;Montgomery;0;normal
+1569;Male;61;Montgomery;1;"cavitary disease RUL with possible small loculated pneumothorax adjacent; has multiuple coarse nodules in RLL as well as lesser amounts in LLL; pt has h/o prior treatment 1Y (6Y ago); no comparison films available; relapsed disease highly likely. pt grew NTM from several specimens, not MTB."
+1570;Female;46;Montgomery;1;inactive and partly calcified scars and granulomas in RUL. pt completed 4HRZE 4HP DOT for neg culture smear (positive disease)
+1571;Female;77;Montgomery;1;"RUL fibrocavitary disease with volume loss and tracheal deviation to right; COPD scoliosis;"
+1572;Male;49;Montgomery;1;normal
+1573;Female;53;Montgomery;0;normal
+1574;Female;43;Montgomery;0;normal
+1575;Female;39;Montgomery;0;normal
+1576;Female;30;Montgomery;0;normal
+1577;Male;24;Montgomery;0;normal
+1578;Female;37;Montgomery;0;normal
+1579;Female;28;Montgomery;0;normal
+1580;Male;9;Montgomery;0;normal
+1581;Female;11;Montgomery;0;normal
+1582;Female;63;Montgomery;1;inactive TB scars LUL
+1583;Male;53;Montgomery;0;normal
+1584;Female;28;Montgomery;0;normal
+1585;Female;30;Montgomery;0;normal
+1586;Female;31;Montgomery;0;normal
+1587;Male;67;Montgomery;1;improving infiltrate in LUL
+1588;Male;21;Montgomery;0;normal
+1589;Female;35;Montgomery;0;normal
+1590;Male;52;Montgomery;1;"RUL cavitary infiltrate; positive smear"
+1591;Female;38;Montgomery;0;normal
+1592;Male;32;Montgomery;1;positive improvement in cavities, infiltrates, and left effusion
+1593;Female;44;Montgomery;0;normal
+1594;Male;54;Montgomery;0;normal
+1595;Female;49;Montgomery;1;improving rt pleural effusion and the RUL infiltrate is less apparent
+1596;Male;49;Montgomery;1;improving rt pleural effusion and the RUL infiltrate is less apparent
+1597;Female;88;Montgomery;1;active PTB with compicating CHF condition
+1598;Male;14;Montgomery;0;normal
+1599;Male;47;Montgomery;1;inactive appearing RUL TB scars
+1600;Male;61;Montgomery;1;"rt pleural effusion with some nodular infiltrate in rt lower lung; there are findings also of previous cardiac surgery; suspicious for active TB."
+1601;Male;42;Montgomery;1;inactive scars RUL
+1602;Male;20;Montgomery;0;normal
+1603;Female;43;Montgomery;1;cavitary infiltrate near left hilum consistent with TB in superior segment LLL
+1604;Female;8;Montgomery;0;normal
+1605;Male;53;Montgomery;0;normal
+1606;Male;33;Montgomery;0;normal
+1607;Male;34;Montgomery;1;"small LUL calcified granuloma; pt on rx for culture positive psoas abscess with abdominal lymphadenopathy since 6M"
+1608;Male;54;Montgomery;0;normal
+1609;Male;33;Montgomery;0;normal
+1610;Male;8;Montgomery;0;normal
+1611;Male;51;Montgomery;1;inactive TB scars
+1612;O;5;Montgomery;0;normal
+1613;Male;15;Montgomery;1;improvements. LUL cavity has closed.
+1614;Female;14;Montgomery;1;calcified granuloma LUL behind 4th rib anterior
+1615;Male;33;Montgomery;1;"stable inactive scars in RUL; post treatment for abscillary TB"
+1616;Female;8;Montgomery;0;normal
+1617;Female;49;Montgomery;1;rt pleural effusion some infoltrate likely in outer RUL
+1618;Female;43;Montgomery;0;normal
+1619;Female;25;Montgomery;1;12x9mm nodule LUL, consistent with large granuloma or some other type of a solitary pulmonary nodule
+1620;Male;53;Montgomery;0;normal
+1621;Male;30;Montgomery;1;pleural TB, on treatment
+1622;Female;16;Montgomery;0;normal
+1623;Male;45;Montgomery;0;normal
+1624;Male;48;Montgomery;0;normal
+1625;Female;20;Montgomery;0;normal
+1626;Male;34;Montgomery;1;inactive scars unchanged for 6M
+1627;Female;43;Montgomery;0;normal
+1628;Female;20;Montgomery;0;normal
+1629;Male;54;Montgomery;1;"improved infiltrates in both lungs; a cavity is now visible in lingula compared with 1M ago. culture positive, pan-sensitive, on HRZ(E) since 1M"
+1630;Female;69;Montgomery;1;"scoliosis to the left with some scarring in LLL and over the left apex; calcified granuloma in the rt lung. could be related to old TB."
+1631;Female;65;Montgomery;0;normal
+1632;Male;36;Montgomery;1;suspicious active disease
+1633;Female;50;Montgomery;0;normal
+1634;Male;24;Montgomery;1;RUL infiltrate consistent with TB
+1635;Female;56;Montgomery;0;normal
+1636;Female;52;Montgomery;0;normal
+1637;Female;47;Montgomery;0;normal
+1638;Female;31;Montgomery;1;cavitary fibronodular infiltrate RUL. typical appearance of active TB.
+1639;Male;32;Montgomery;0;normal
+1640;Female;89;Montgomery;1;improvements after Rx. Has pleural, pulmonary, and probably percardial TB, pan-sensitive
+1641;Male;46;Montgomery;1;bilateral calcified granulomas scars consistent with inactive TB.
+1642;Female;31;Montgomery;0;normal
+1643;Female;47;Montgomery;0;normal
+1644;Female;17;Montgomery;0;normal
+1645;Female;41;Montgomery;0;normal
+1646;Female;63;Montgomery;1;large infiltrate RUL with cavitation plus infiltrate in RML. consistent with active cavitary TB
+1647;Male;52;Montgomery;0;normal
+1648;Male;27;Montgomery;1;LUL infiltrate, ? small areas of cavitation, IMP: active TB
+1649;Female;32;Montgomery;0;normal
+1650;Female;33;Montgomery;0;normal
+1651;Male;46;Montgomery;1;large right pleural effusion, positive TST, TB pleural effusion likely
+1652;Male;49;Montgomery;1;"RUL apical fibrotic disease with some calcifications; extensive irregular infiltrates in left lung with a large area of cavitation/ findings consistent with old inactive disease in RL and new active TB in LL. On the lordotic view, in the rt apex a large thin walled cavity is visible, making active disease in the area likely as well."
+1653;Male;23;Montgomery;0;normal
+1654;Male;44;Montgomery;0;normal
+1655;Male;47;Montgomery;1;"peripheral homogeneous infiltrate LUL; active pneumonia likely"
+1656;Female;32;Montgomery;0;normal
+1657;Female;21;Montgomery;0;normal
+1658;Female;25;Montgomery;0;normal
+1659;Female;26;Montgomery;0;normal
+1660;Male;44;Montgomery;0;normal
+1661;Female;29;Montgomery;0;normal
+1662;Female;56;Montgomery;0;normal
+1663;Female;70;Montgomery;0;normal
+1664;Female;18;Montgomery;0;normal
+1665;Male;40;Montgomery;1;"extensive cavitary TB smear and culture positive involving LUL lungula and some areas in rt lung as well; pt had previously normal CXR (1Y ago) but positive TST and contact with active case"
+1666;Male;54;Montgomery;1;improving infiltrate, active TB
+1667;Female;16;Montgomery;0;normal
+1668;Male;67;Montgomery;1;smear positive, active TB LUL apex
+1669;Male;52;Montgomery;1;"Rt apical scarring. LUL scars and some infiltrates as well; findings consistent with TB; ?active"
+1670;Female;10;Montgomery;0;normal
+1671;Female;31;Montgomery;1;"cavitary nodular infiltrate in RUL; active TB"
+1672;Female;34;Montgomery;0;normal
+1673;Male;50;Montgomery;0;normal
+1674;Male;31;Montgomery;1;"worsening diffuse infiltrate bilaterally with fine nodular appearance; recent PCP treatment; recurrent PCP likely although miliary TB is also observed."
+1675;Female;19;Montgomery;0;normal
+1676;Female;44;Montgomery;1;"cavitary nodular infiltrate in RUL; active TB"
+1677;Male;52;Montgomery;0;normal
+1678;Male;48;Montgomery;0;normal
+1679;Female;89;Montgomery;1;on Rx for culture proven TB. has been clearing of infiltrates in te rt lung. thre is some re-accomodation of pleural fluid along lateral left chest wall.
+1680;Male;33;Montgomery;1;"stable inactive scars in RUL; post treatment for abscillary TB"
+1681;Female;34;Montgomery;0;normal
+1682;Female;26;Montgomery;1;"dense scarring in LUL with volume loss, lesser scarring in RUL; appears similar to old filmes from 3Y ago and 4Y ago. Treated 4Y ago for 6M for INH resistant TB"
+1683;Female;40;Montgomery;0;normal
+1684;Female;89;Montgomery;1;inactive scars RML. has completed treatment
+1685;Male;4;Montgomery;0;normal
+1686;Female;84;Montgomery;1;"bilateral miliary nodules diffusely with RML infiltrate and right pleural effusion; an old calcified granuloma is present behind heart in the LLL; all findings consistent with active TB"
+1687;Female;27;Montgomery;0;normal
+1688;Female;11;Montgomery;0;normal
+1689;Female;85;Montgomery;1;inactive scars RML. has completed treatment
+1690;Male;68;Montgomery;1;"bilateral changes of cavitary TB in upper lobes, more extensive on the right; the RML appears to be involved as well."
+1691;Male;59;Montgomery;1;inactive TB scars LUL, unchanged for 2Y, pt previously treated DOT (17Y ago) for pan-sensitive disease
+1692;Male;44;Montgomery;0;normal
+1693;Male;44;Montgomery;0;normal
+1694;Male;16;Montgomery;1;improved LUL infiltrate and cavity. Active TB on therapy.
+1695;Male;15;Montgomery;1;"active TB; cavitary infiltrarte LUL; non-consolidated;"
+1696;Female;25;Montgomery;0;normal
+1697;Female;56;Montgomery;0;normal
+1698;Male;73;Montgomery;1;"active TB; cavitary infiltrarte LUL; non-consolidated;"
+1699;Male;47;Montgomery;1;"persistent rt pleural peel with some interval improvement with focal atelectasis in rt lung; anterior wedging of T5, T6 with loss of intervertebral disc space. Findings consistent with h/o spinal TB and pleural TB. Currently on Rx."
+1700;Female;30;Montgomery;0;normal
+1701;Female;44;Montgomery;0;normal
+1702;Female;30;Montgomery;1;"left pleural effusion; best seen on lateral view; with some scar and soft infiltrates in the LUL on the PA and lordotic views; active TB on pleura and lung likely"
+1703;Female;45;Montgomery;0;normal
